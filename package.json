@@ -6,7 +6,6 @@
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
     "lint": "eslint .",
-    "prepare": "husky",
     "lint:fix": "eslint . --fix",
     "test": "jest",
     "coverage": "jest --coverage",
